@@ -1,17 +1,39 @@
-# contador
+# Contador de Pessoas
 
-A new Flutter project.
+Um simples aplicativo de contador de pessoas construído em Flutter.
 
-## Getting Started
+## Visão Geral
 
-This project is a starting point for a Flutter application.
+Este aplicativo oferece uma maneira fácil de rastrear a quantidade de pessoas em um determinado local. Você pode aumentar ou diminuir o contador pressionando os botões "Entrou" ou "Saiu". O aplicativo exibe mensagens informativas quando atinge o limite máximo ou mínimo.
 
-A few resources to get you started if this is your first Flutter project:
+##Captura de Tela
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![ss](https://github.com/HeryckPeres/Contador-de-Pessoas/assets/54678836/befb515b-39aa-4ea6-aff2-64b20df49d1e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Contador-de-Pessoas
+## Funcionalidades
+
+Aumentar ou diminuir o contador
+Mensagens informativas quando atinge o limite máximo ou mínimo
+
+## Pré-requisitos
+
+Flutter instalado
+Dependências listadas no arquivo `pubspec.yaml`
+
+Clone este repositório
+`git clone https://github.com/seu-usuario/contador_de_pessoas.git`
+
+Navegue até o diretório do projeto
+`cd contador_de_pessoas`
+
+Execute o aplicativo
+`flutter run`
+
+## Uso
+- Toque no botão "Entrou" para aumentar o contador.
+- Toque no botão "Saiu" para diminuir o contador.
+- Acompanhe as mensagens informativas conforme você interage com o contador.
+
+
+
+

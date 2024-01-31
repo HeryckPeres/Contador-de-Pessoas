@@ -8,9 +8,7 @@ Este aplicativo oferece uma maneira fácil de rastrear a quantidade de pessoas e
 
 ## Captura de Tela
 
-
-![Design sem nome]([https://raw.githubusercontent.com/HeryckPeres/Contador-de-Pessoas/main/assets/54678836/d1b312e3-369a-4627-878d-7b461678c8a4](https://github.com/HeryckPeres/Contador-de-Pessoas/assets/54678836/6c6d04ab-f205-49a2-8bc3-0880509d1d1f){:width="30%"}
-
+![Design sem nome](https://github.com/HeryckPeres/Contador-de-Pessoas/assets/54678836/3ea0fafd-b8cb-4a53-81fc-6bcc149a9e78)
 
 
 ## Funcionalidades

@@ -22,7 +22,7 @@ Flutter instalado
 Dependências listadas no arquivo `pubspec.yaml`
 
 Clone este repositório
-`git clone https://github.com/seu-usuario/contador_de_pessoas.git`
+`https://github.com/HeryckPeres/Contador-de-Pessoas-Flutter.git`
 
 Navegue até o diretório do projeto
 `cd contador_de_pessoas`
